@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 'm currently apprenticing on Software Park Codecamp Intern to sharp my skills for Full-stack JS Developer. 
+- 🔭 I'm currently apprenticing on Software Park Codecamp Intern to sharp my skills for Full-stack JS Developer. 
 - 🌱 I’m currently learning HTML, CSS, JS, React, Node.JS, MySQL,...,Etc. during  period of May-July'2022.
 
 My skill<br>
